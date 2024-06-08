@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projexhub/static/css/main.7c365f65.css",
+    "main.js": "/projexhub/static/js/main.d94fb784.js",
+    "static/js/453.1bf48806.chunk.js": "/projexhub/static/js/453.1bf48806.chunk.js",
+    "static/media/_beae0e35-de3a-437b-bbe5-972e053a978c.jpeg": "/projexhub/static/media/_beae0e35-de3a-437b-bbe5-972e053a978c.ce225f5a590e29990acd.jpeg",
+    "index.html": "/projexhub/index.html",
+    "main.7c365f65.css.map": "/projexhub/static/css/main.7c365f65.css.map",
+    "main.d94fb784.js.map": "/projexhub/static/js/main.d94fb784.js.map",
+    "453.1bf48806.chunk.js.map": "/projexhub/static/js/453.1bf48806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c365f65.css",
+    "static/js/main.d94fb784.js"
+  ]
+}
