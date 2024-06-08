@@ -1,0 +1,32 @@
+/* src/pages/Home.css */
+.home .hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: url('C:\Users\Kavya\Downloads\_beae0e35-de3a-437b-bbe5-972e053a978c.jpeg') no-repeat center center/cover;
+    color: white;
+    margin-top: 1.5rem;
+  }
+  
+  .home .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home .hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .home .cta-button {
+    background: #007bff;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .home .cta-button:hover {
+    background: #0056b3;
+  }
+  
